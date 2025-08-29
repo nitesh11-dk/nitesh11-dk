@@ -1,0 +1,32 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight
+  workflow_dispatch:
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generate summary cards
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Use your GitHub Personal Access Token here
+        with:
+          USERNAME: nitesh11-dk
+
+      # Commit & push generated cards back to repo
+      - name: Commit and push summary cards
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-summary-card-output/
+          git commit -m "Update GitHub Profile Summary Cards" || echo "No changes to commit"
+          git push
