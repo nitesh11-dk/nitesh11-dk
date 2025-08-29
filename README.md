@@ -1,13 +1,15 @@
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 </div>
+
+<br/>
+
 # 👋 Hi, I'm Niteshkumar!
 
 👨‍💻 **Full-Stack Developer** specializing in MERN, Next.js, TypeScript, and Python  
 🎨 Building AI & workflow automation tools for service businesses  
 📚 B.Tech CSE ‘27 | Passionate about learning and sharing developer knowledge  
-💭 Currently diving deeper into AI-driven automation and data workflows  
-
+💭 Currently diving deeper into AI-driven automation and data workflows
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ygSEGFN7) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61573876274345) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niteshh.dk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niteshdk11) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@niteshdk11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCQLAlgzrYMJWIH43e8IJA1w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshdk11@gmail.com) 
@@ -27,3 +29,4 @@
 <td><img src="https://github-contributor-stats.vercel.app/api?username=nitesh11-dk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /></td>
 </tr>
 </table>
+
