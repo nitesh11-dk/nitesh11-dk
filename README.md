@@ -16,9 +16,18 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nitesh11-dk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh11-dk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nitesh11-dk&theme=tokyonight&hide_border=false)![](https://github-contributor-stats.vercel.app/api?username=nitesh11-dk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+# 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nitesh11-dk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh11-dk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=nitesh11-dk&theme=tokyonight&hide_border=false" /></td>
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=nitesh11-dk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /></td>
+  </tr>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nitesh11-dk&icon=0&color=0)](https://visitcount.itsvg.in)
