@@ -32,9 +32,8 @@ I build full-stack web apps, work on AI automation, and love learning new techno
 ---
 
 ## 📊 GitHub Stats
-
-![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitesh11-dk&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh11-dk&layout=compact&theme=dracula)
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitesh11-dk&show_icons=true&theme=ayu_mirage)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh11-dk&layout=compact&theme=ayu_mirage)
 
 ---
 
