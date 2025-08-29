@@ -1,41 +1,76 @@
-![logo](https://github.com/nitesh11-dk/nitesh11-dk/blob/ff89764ed23b25cc8fe8cbb82de1082fe85e468b/lbg_auto_x2.jpg)
+<div align="center">
 
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Hello Coders" width="50%"/> <br>
+<img src="https://media.giphy.com/media/L0PTE1wYVnN6i/giphy.gif" alt="Workspace" width="35%"/>
 
-<h3 align="center">"Full Stack Developers: Pioneers of Innovation in Tech"</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/nitesh-dk11/nitesh-dk11/blob/main/gif.gif">
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=nitesh-dk11&icon=7&color=1)](https://visitcount.itsvg.in)
+# 👋 Hi, I'm Nitesh Kushwaha
 
-- 🔭 I’m currently working on **Developing projects  of 3D Modern Websites**
+I’m a **developer, entrepreneur, and AI enthusiast**. Glad to have you here exploring my work!  
+I build full-stack web apps, work on AI automation, and love learning new technologies.
 
-- 🌱 I’m currently learning **React , Gsap , Locomotive js , Scrolltrigger**
+---
 
-- 👯 I’m looking to collaborate on **Open-source development projects related to web development , Web services .**
-- 🤝 I’m looking for help with **Staying up-to-date with the latest advancements in web  Developement  ,Advace Web animation  and Web security ,
-If you have expertise in this   area, your  insights would be valuable.**
+## 🔗 Connect with me
 
-- 💬 Ask me about **the opportunities in the field of Full stack developnemnt .**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/niteshh.dk/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-dk/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nitesh11-dk)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@niteshdk9)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/nittesh.dk)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BLMymU7dD/)
 
-- 📫 How to reach me **You can contact me via email at [niteshdk11@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/nitesh-dk]**
+---
 
-- ⚡ Fun fact **I have a habit of giving my code variables and functions playful and sometimes quirky names.  It makes debugging more enjoyable and adds a touch of whimsy to my coding journey!**
+## 🛠 Skills
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-dk) 
+### Languages
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg)  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Web Development
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)  
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)  
+![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg)  
+![Apache](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg)  
 
+### DevOps & Database
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
+![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)  
+![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg)  
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)  
+![Google Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg)  
+![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)  
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)  
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
 
+### Tools & AI Automation
+![Prisma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg)  
+![Clerk](https://avatars.githubusercontent.com/u/102392459?s=200&v=4)  
+![Supabase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg)  
+![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)  
 
+---
 
+## 📊 GitHub Stats
 
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitesh11-dk&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh11-dk&layout=compact&theme=dracula)
 
+---
 
+## 💬 Fun Fact
 
+> Banging your head against a wall for one hour burns **150 calories** 😅
 
+---
 
-
-
-
-
+*This README was generated dynamically using Nitesh's profile data.*
