@@ -24,17 +24,14 @@ I´m Raphael, system administrator in germany bavaria
 ## 🚀💻 Technologies & Tools
 
 
-## 🛠 Skills
+## 🛠Technologies
 
 
-### Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)  
-### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)  ![Apache](https://img.shields.io/badge/-Apache-black?style=flat-square&logo=apache)  
-### DevOps & Database
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
-### Tools & AI Automation
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)  ![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square&logo=clerk)  ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)  ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)  
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)  ![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square&logo=clerk)  ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)  ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
 
 ---
 
