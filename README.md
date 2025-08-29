@@ -31,6 +31,13 @@ I build full-stack web apps, work on AI automation, and love learning new techno
 
 ---
 
+## 📊 GitHub Stats
+
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitesh11-dk&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh11-dk&layout=compact&theme=dracula)
+
+---
+
 <a href="https://github.com/nitesh11-dk">
 <img src="https://raw.githubusercontent.com/nitesh11-dk/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/nitesh11-dk/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
