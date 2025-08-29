@@ -14,9 +14,7 @@ I build full-stack web apps, work on AI automation, and love learning new techno
 ---
 
 ## 🔗 Connect with me
-[![Instagram Badge](https://img.shields.io/badge/-niteshh.dk-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/niteshh.dk/)](https://www.instagram.com/niteshh.dk/)  
-[![LinkedIn Badge](https://img.shields.io/badge/-nitesh-dk-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-dk/)](https://www.linkedin.com/in/nitesh-dk/)  
-[![GitHub Badge](https://img.shields.io/badge/-nitesh11-dk-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/nitesh11-dk)](https://github.com/nitesh11-dk)  
+[![Instagram Badge](https://img.shields.io/badge/-niteshh.dk-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/niteshh.dk/)](https://www.instagram.com/niteshh.dk/)   
 [![YouTube Badge](https://img.shields.io/badge/-niteshdk9-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@niteshdk9)](https://www.youtube.com/@niteshdk9)  
 [![Discord Badge](https://img.shields.io/badge/-nittesh.dk-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/nittesh.dk)](https://discordapp.com/users/nittesh.dk)  
 [![Facebook Badge](https://img.shields.io/badge/-nitesh.dk-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/share/1BLMymU7dD/)](https://www.facebook.com/share/1BLMymU7dD/)
