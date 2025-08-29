@@ -23,11 +23,6 @@ I build full-stack web apps, work on AI automation, and love learning new techno
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nitesh11-dk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nitesh11-dk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
